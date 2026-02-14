@@ -38,7 +38,7 @@ public class MatcherController {
             if (jd == null || jd.trim().isEmpty()) {
                 return ResponseEntity.badRequest().body("Job description is required");
             }
-            if (!file.getContentType().equals("application/pdf")) {
+            if (!"application/pdf".equals(file.getContentType())) {
                 return ResponseEntity.badRequest().body("Only PDF files are supported");
             }
 
@@ -160,3 +160,4 @@ public class MatcherController {
         return result;
     }
 }
+```
